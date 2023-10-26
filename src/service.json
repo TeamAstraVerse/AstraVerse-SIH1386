@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "astraverse-398504",
+    "private_key_id": "5a630ddc109a64d3a487d05350488969f814fc83",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCwWwzsT7xd8ZaL\n8dkY9keBdM+wTkVCW/IZNzqRrXto4vI+S39TBLnQcTQX+uOvte/BVCfjgkXcK0I0\nkCp0wkdEnG4ALEUn2CexGMere5+eYNoqBHZRPMZp2TzCivSW7So4MzeL75LDYZ5V\n3VFWbmhQn6KQnt/aKqoq/3sdPtb6bNazlwxuq1pbgX/lP5B8auK5IhNJxDiA8ZYr\nQ+OAGzW86P1cOyln8NnXXjGmLQm7u3P3adkHxcTYnVTwOhF8gJxpI3qLPipxOvmC\n6lLNLwlGSu/jy5S/tRzEW/b0QzGE926xq7Q2Av15D69+0zFI0XzIZ6A0+6MaKjFs\nyoDmdb9zAgMBAAECggEAETnbkcuaES0TcPj/JTaNNoJz9Ps4Paqgg8EGygsBhnXA\nhsA2ICRSiB8+oOcDTXr+f8paGRl0/HQHQ/4e/4eokXWcMw0f9ivheKV8f24UYdKB\nDOChs/61PMqY6kHLcWCaIqIyF0uf8NC8uBNlqgUf0Fw/c1PpdrR7KbcJzgoA0rYb\n8xlJrJhWZ/O2w0FslLkWyQ6VLrMQLDSrPoxVVCpslBYgt96U4q0bMOxd0sliMikl\nmqIpS1rSodvK+VmzFeC2aF73cmTdlHUoGbCnOTo9AL2QceQWAhwSmloDsNfhd+Yh\nm6uPII0j1OhlwRo6EfSw6msBEX4zjlHjZvOObG2nfQKBgQD1hJos100M60/en+rt\n21vmVD/bfC5hOsezd1YXAux9nS50VllgDxPahFU7DfUAuJdXdNTSB93a08yx3lpM\n2W/vXQ3QOevz4dzI8i0JAu7+t09qlQfDOPtIVHwYdLHvRIG04sUj5sDdThx0Zft5\n1fU+Jd27lRWyn/yL2UwO+yFNXwKBgQC34olFAx9lrlWiCChP7DGyi6jr/VMFjW7p\nUAd6Sc3uoXhRjlul0zwj70GPZIXRUtQjt5lehLrnu2pJpSH0hczSCQKoNCfN2gVe\nQsR9cVUgiMLi968gmZQHul9RTA5/Oe/6FMHwvhoFDV4t5m9qBP7htltxyqhKtxsz\nxOyLUFzybQKBgQDzl6fcO5Vf7wxkhmfxrMWmZgqherkNkONYZVuOI0F+c/gGRzIP\nw4XgNZHWsMdX+s11YR5ScKmmlqOuCj2vp8COTdYJtZ4sb/i9isIyAa4cHMX3qnt0\nL1HpdqFVJlrwWRkT3jbYovbR29ERj6mNPUJAchNoLMfFXUSVgHgdGP72owKBgEky\nBGATISFRZsbLpnhB1XpzuzbMrIpuRPLcJ03XKQDPB1y3ZOW6EptfNmKEqfurk8Pv\n5j3IabmqUWGlOMHjrKcCbStVL27yVOazfxFL1o3PwnukCfLZDyKQXja3JqIgBtUu\nBBD3KtZN/uoYasrx2B8yfm3qNFkhT9OolFvUDlt1AoGABnPQmfsZ2HhTJ8+evOFV\n1gnNADUI0BDnxC+edOZUsHJ+TZ71NpnYfJltiTfINo7flCGke6JB4okHQwGhdj4f\niVzGfQQa3ktph2WR+Wg03Bd5WT6Gh4rjeqW6D/8+SKfHMpnuXeFdM/evbc1eIaXd\ngqmswGMs1nAzjtM0wLMBtI8=\n-----END PRIVATE KEY-----\n",
+    "client_email": "astraverse@astraverse-398504.iam.gserviceaccount.com",
+    "client_id": "107315983087854588887",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/astraverse%40astraverse-398504.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
